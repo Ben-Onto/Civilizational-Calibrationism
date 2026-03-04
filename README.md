@@ -42,6 +42,8 @@
 ├── 📑 WHITE_PAPERS/         # 技术与算法白皮书 (Technical White Papers)
 └── 🛡️ STRATEGY/             # 全球出版与政治风险对策 (Publishing & Risk Strategy)
 
+---
+
 ## ⚓ 4. 逻辑锚定声明 | Logical Anchoring Statement
 
 > **物理时间戳**：本仓库所有内容的 `Commit Hash` 将作为文明校正主义原始思想的物理时间戳。任何基于此理论的演化、引用或出版，均需遵循署名协议。

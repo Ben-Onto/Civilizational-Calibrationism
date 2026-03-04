@@ -34,7 +34,6 @@
 
 ## 📂 3. 仓库结构 | Repository Structure
 
-```text
 .
 ├── 📜 MANIFESTO.md          # 文明校正主义宣言 (Bilingual Manifesto)
 ├── 📚 CORE_THEORY/          # 六卷本理论核心 (Six Volumes of Core Theory)
@@ -51,6 +50,8 @@
 ---
 
 🛡️ 5. 许可协议 | License本项目采用 
+
+```text
 
 CC BY-NC-SA 4.0 许可协议。属性内容Author / 作者Ben Onto (本·本体)Contact / 联系[Your Contact Info / GitHub Profile]Protocol / 协议CC BY-NC-SA 4.0<p align="center"><b>"校正，是为了文明的长存。"</b><i>"Calibration for the Endurance of Civilization."</i></p>
 -----

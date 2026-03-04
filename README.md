@@ -42,28 +42,27 @@
 ├── 📑 WHITE_PAPERS/         # 技术与算法白皮书 (Technical White Papers)
 └── 🛡️ STRATEGY/             # 全球出版与政治风险对策 (Publishing & Risk Strategy)
 
-```text
+## ⚓ 4. 逻辑锚定声明 | Logical Anchoring Statement
+
+> **物理时间戳**：本仓库所有内容的 `Commit Hash` 将作为文明校正主义原始思想的物理时间戳。任何基于此理论的演化、引用或出版，均需遵循署名协议。
+> 
+> *All commit hashes in this repository serve as the physical timestamp for the original thoughts of Civilizational Calibrationism. Any evolution, citation, or publication must follow the attribution protocols.*
 
 ---
 
-##⚓ 4. 逻辑锚定声明 | Logical Anchoring Statement
+## 🛡️ 5. 许可协议 | License
 
-物理时间戳：本仓库所有内容的 Commit Hash 将作为文明校正主义原始思想的物理时间戳。
+本项目采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。
 
-归属协议：任何基于此理论的演化、引用或出版，均需遵循署名协议，尊重原生逻辑体系。
-
-All commit hashes in this repository serve as the physical timestamp for the original thoughts of Civilizational Calibrationism. Any evolution, citation, or publication must follow the attribution protocols.
+| 属性 | 内容 |
+| :--- | :--- |
+| **Author / 作者** | **Ben Onto (本·本体)** |
+| **Contact / 联系** | `[Your Contact Info / GitHub Profile]` |
+| **Protocol / 协议** | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 
 ---
 
-##🛡️ 5. 许可协议 | License
-
-本项目采用 CC BY-NC-SA 4.0 许可协议。
-
-Author: Ben Onto (本·本体)
-
-Maintainer: [Ben Onto (本·本体)]
-
-Contact: [dtanbinh393@gmail.com]
-
-"校正，是为了文明的长存。" / "Calibration for the Endurance of Civilization."
+<p align="center">
+  <b>"校正，是为了文明的长存。"</b><br>
+  <i>"Calibration for the Endurance of Civilization."</i>
+</p>

@@ -28,7 +28,7 @@
 | **Civilization Sensing Protocol** | `CSP` | 去中心化社会神经网 | 实时感知系统压力与偏离度 |
 | **Real Volition Protocol** | `RVP` | 真实意愿验证协议 | 提取本体痛感，剥离虚假意识 |
 | **Civilizational Cost Protocol** | `CCP` | 文明成本协议 | 实现风险全额内生化与成本归因 |
-| **Correctionist Revisionist Architecture** | `CRA` | 最高纠错权限制度 | 确保文明在极端偏离时的暴力纠偏能力 |
+| **Correctionist Revisionist Architecture** | `CRA` | 最高纠错权限制度 | 确保文明在极端偏离时的纠偏能力 |
 
 ---
 
@@ -44,27 +44,13 @@
 
 ---
 
-## ⚓ 4. 逻辑锚定声明 | Logical Anchoring Statement
+⚓ 4. 逻辑锚定声明 | Logical Anchoring Statement
 
-> **物理时间戳**：本仓库所有内容的 `Commit Hash` 将作为文明校正主义原始思想的物理时间戳。任何基于此理论的演化、引用或出版，均需遵循署名协议。
-> 
-> *All commit hashes in this repository serve as the physical timestamp for the original thoughts of Civilizational Calibrationism. Any evolution, citation, or publication must follow the attribution protocols.*
+物理时间戳：本仓库所有内容的 Commit Hash 将作为文明校正主义原始思想的物理时间戳。归属协议：任何基于此理论的演化、引用或出版，均需遵循署名协议。All commit hashes in this repository serve as the physical timestamp for the original thoughts of Civilizational Calibrationism. Any evolution, citation, or publication must follow the attribution protocols.
 
 ---
 
-## 🛡️ 5. 许可协议 | License
+🛡️ 5. 许可协议 | License本项目采用 
 
-本项目采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。
-
-| 属性 | 内容 |
-| :--- | :--- |
-| **Author / 作者** | **Ben Onto (本·本体)** |
-| **Contact / 联系** | `[Your Contact Info / GitHub Profile]` |
-| **Protocol / 协议** | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
-
----
-
-<p align="center">
-  <b>"校正，是为了文明的长存。"</b><br>
-  <i>"Calibration for the Endurance of Civilization."</i>
-</p>
+CC BY-NC-SA 4.0 许可协议。属性内容Author / 作者Ben Onto (本·本体)Contact / 联系[Your Contact Info / GitHub Profile]Protocol / 协议CC BY-NC-SA 4.0<p align="center"><b>"校正，是为了文明的长存。"</b><i>"Calibration for the Endurance of Civilization."</i></p>
+-----

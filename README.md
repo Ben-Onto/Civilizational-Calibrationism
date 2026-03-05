@@ -42,8 +42,6 @@ This repository contains the full logical design of the **Civilizational Operati
 
 ## 4. 逻辑锚定声明 | Logical Anchoring Statement
 
----
-
 本仓库所有内容的 Commit Hash 将作为文明校正主义原始思想的物理时间戳。任何基于此理论的演化、引用或出版，均需遵循署名协议。
 
 All commit hashes in this repository serve as the physical timestamp for the original thoughts of Civilizational Calibrationism. Any evolution, citation, or publication must follow the attribution protocols.
@@ -54,9 +52,9 @@ All commit hashes in this repository serve as the physical timestamp for the ori
 
 本项目采用 CC BY-NC-SA 4.0 许可协议。
 
-```text
-
 ---
+
+```text
 
 Author: Ben Onto (本·本体)
 
